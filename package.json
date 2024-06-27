@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@react-navigation/native": "^6.1.17",
+    "node": "^20.15.0"
+  }
+}
